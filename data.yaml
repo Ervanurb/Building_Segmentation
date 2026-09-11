@@ -1,0 +1,8 @@
+path: D:\yolo_dataset_genisletilmis
+train: train/images
+val: val/images
+
+# Sınıf Bilgileri
+nc: 1
+names:
+  0: bina
